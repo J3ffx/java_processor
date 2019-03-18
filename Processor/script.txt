@@ -1,0 +1,10 @@
+menu
+value
+inc
+value
+dec
+inc
+value
+dec
+value
+quit
